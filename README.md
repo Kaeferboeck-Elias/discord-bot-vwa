@@ -13,5 +13,5 @@ Ein Bot für die beliebte Plattform Discord, entstanden im Zuge meiner Vorwissen
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/Kaeferboeck-Elias/discord-bot-vwa/blob/main/LICENSE)
 
